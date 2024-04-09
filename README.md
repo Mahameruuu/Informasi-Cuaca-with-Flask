@@ -21,8 +21,9 @@ pip install Flask requests
 ``
 
 Jalankan aplikasi dengan perintah:
+
 ``
-python app.py
+python cuaca.py
 ``
 
 Buka browser dan akses http://localhost:5000 untuk menggunakan aplikasi cuaca.
