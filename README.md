@@ -10,20 +10,18 @@ Aplikasi cuaca sederhana menggunakan Flask dan OpenWeatherMap API untuk mendapat
 
 # Cara Menggunakan
 
-Unduh atau clone repositori ini ke komputer Anda.
-
-Buka terminal atau command prompt dan masuk ke direktori proyek.
-
-Install dependensi yang diperlukan dengan menjalankan perintah berikut:
+1. Unduh atau clone repositori ini ke komputer Anda.
+2. Buka terminal atau command prompt dan masuk ke direktori proyek.
+3. Install dependensi yang diperlukan dengan menjalankan perintah berikut:
 
 ``
 pip install Flask requests
 ``
 
-Jalankan aplikasi dengan perintah:
+4. Jalankan aplikasi dengan perintah:
 
 ``
 python cuaca.py
 ``
 
-Buka browser dan akses http://localhost:5000 untuk menggunakan aplikasi cuaca.
+5. Buka browser dan akses http://localhost:5000 untuk menggunakan aplikasi cuaca.
